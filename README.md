@@ -1,7 +1,7 @@
 # Java_Assignment
-All laboratory Excerises of JAVA.
-Output Links :
-1a : https://github.com/user-attachments/assets/a00880d1-4b3f-4faf-b75c-20702d7795ce \ 
+All laboratory Excerises of JAVA. \
+Output Links : \
+1a : https://github.com/user-attachments/assets/a00880d1-4b3f-4faf-b75c-20702d7795ce \
 \
 1b : 
     1 : https://github.com/user-attachments/assets/356cb6c4-2317-4223-9775-d6ba2fd18f7e \
